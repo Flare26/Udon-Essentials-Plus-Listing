@@ -1,28 +1,18 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
-    },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+  "name": "Udon Essentials Plus",
+  "id": "com.n8bits.udon-essentials-plus-listing",
+  "url": "https://flare26.github.io/Udon-Essentials-Plus-Listing/index.json",
+  "author": {
+    "name": "n8bits",
+    "url": "https://github.com/Flare26"
+  },
+  "description": "UdonSharp packages for VRChat worlds by n8bits.",
+  "infoLink": {
+    "url": "https://github.com/Flare26/Udon-Essentials-Plus-Listing",
+    "text": "View on GitHub"
+  },
+  "bannerUrl": "banner.png",
+  "githubRepos": [
+    "Flare26/Udon-Essentials-Plus"
+  ]
 }
