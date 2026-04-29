@@ -6,7 +6,7 @@
     "name": "n8bits",
     "url": "https://github.com/Flare26"
   },
-  "description": "UdonSharp packages for VRChat worlds by n8bits.",
+  "description": "Modular UdonSharp packages for VRChat world creators. Install only what you need — from everyday world utilities to AudioLink integrations and camera tools.",
   "infoLink": {
     "url": "https://github.com/Flare26/Udon-Essentials-Plus-Listing",
     "text": "View on GitHub"
